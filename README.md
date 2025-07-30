@@ -1,2 +1,2 @@
-# C-
+# C++
 Learning C plus plus
