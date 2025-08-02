@@ -1,3 +1,5 @@
+// Accessing struct elements
+
 #include <iostream>
 using namespace std;
 
